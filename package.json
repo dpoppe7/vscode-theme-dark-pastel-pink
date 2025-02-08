@@ -15,6 +15,7 @@
     "url": "https://github.com/dpoppe7/vscode-theme-dark-pastel-pink.git" 
   },
   "license": "MIT",
+  "icon": "images/Theme-logo.png",
   "contributes": {
     "themes": [
       {
