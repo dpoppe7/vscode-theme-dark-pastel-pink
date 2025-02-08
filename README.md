@@ -1,18 +1,15 @@
-![Theme logo](images/Theme-logo.png) 
+![Theme logo](https://github.com/user-attachments/assets/94b792e6-7483-4901-8be5-6c6cac5d4d7e)
 
 # Dark Pastel Pink Theme for VS Code :sparkles: 
 ## [*Made with* 🩷 *by Damaris*](https://dpoppe7.github.io/React-Portfolio/)
 
 A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
 
-![Theme logo](images/SS1.png) 
+<img width="1440" alt="Screenshot 2025-02-08 at 2 16 02 AM" src="https://github.com/user-attachments/assets/b47f5404-2c36-4055-9c93-8575f56dba1a" />
 
-![Theme logo](images/SS2.png)
+<img width="1439" alt="Screenshot 2025-02-08 at 2 23 51 AM" src="https://github.com/user-attachments/assets/4d8404d8-2b5f-45fc-915b-5005782093be" />
 
 <hr>
-
-</div>
-
 
 ## ✅📌 Installation via VS Code
 
@@ -24,7 +21,7 @@ A soothing dark theme for VS Code, blending soft pastel pinks with vibrant paste
 
 ## ⬇️🚀 Manual Installation
 
-1. Download the `.vsix` file from the [VS Code Marketplace](link-to-your-marketplace-page) or from the [Releases](link-to-your-github-releases) section of this repository.
+1. Download the `.vsix` file from the [VS Code Marketplace](link-to-your-marketplace-page).
 2. In VS Code, open the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
 3. Click the three dots (...) at the top right of the Extensions view.
 4. Select "Install from VSIX..."
