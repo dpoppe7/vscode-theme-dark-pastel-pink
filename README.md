@@ -1,9 +1,10 @@
 <div align="center">
   ![Theme logo](images/Theme\ logo.png) 
 </div>
-  # Dark Pastel Pink Theme for VS Code 
 
-  A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
+# Dark Pastel Pink Theme for VS Code 
+
+A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
 
 <hr>
 
