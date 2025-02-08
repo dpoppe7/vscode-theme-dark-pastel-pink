@@ -1,5 +1,5 @@
 <div align="center">
-  ![Theme logo](images/Theme\ logo.png) 
+  ![Theme logo](images/Theme-logo.png) 
 </div>
 
 # Dark Pastel Pink Theme for VS Code 
