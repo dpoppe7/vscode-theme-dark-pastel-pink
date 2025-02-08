@@ -1,0 +1,22 @@
+{
+  "name": "dark-pastel-pink",
+  "displayName": "Dark Pastel Pink",
+  "description": "Dark Pastel Pink is a soothing dark theme for VS Code, blending soft pinks with vibrant pastel shades for comfortable low-light coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "DamarisPoppe",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Pastel Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Pastel Pink-color-theme.json"
+      }
+    ]
+  }
+}
