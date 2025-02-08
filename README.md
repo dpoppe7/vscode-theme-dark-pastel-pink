@@ -69,4 +69,3 @@ This theme is licensed under the MIT License.  See the LICENSE file for details.
 
 ![Theme logo](https://github.com/user-attachments/assets/94b792e6-7483-4901-8be5-6c6cac5d4d7e)
 
-![Theme logo](images/Theme-logo.png) 
