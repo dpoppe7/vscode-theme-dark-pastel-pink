@@ -10,6 +10,11 @@
     "Themes"
   ],
   "publisher": "DamarisPoppe",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/dpoppe7/vscode-theme-dark-pastel-pink.git" 
+  },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
@@ -19,4 +24,5 @@
       }
     ]
   }
+  
 }

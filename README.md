@@ -21,7 +21,7 @@ A soothing dark theme for VS Code, blending soft pastel pinks with vibrant paste
 
 ## ⬇️🚀 Manual Installation
 
-1. Download the `.vsix` file from the [VS Code Marketplace](link-to-your-marketplace-page).
+1. Download the `.vsix` file from the [VS Code Marketplace].
 2. In VS Code, open the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
 3. Click the three dots (...) at the top right of the Extensions view.
 4. Select "Install from VSIX..."
@@ -62,5 +62,11 @@ This section provides a general overview of the colors used in the theme.  For a
 * [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
 * [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-themes)
 * [VS Code Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extensions)
+
+## License
+
+This theme is licensed under the MIT License.  See the LICENSE file for details.
+
+![Theme logo](https://github.com/user-attachments/assets/94b792e6-7483-4901-8be5-6c6cac5d4d7e)
 
 ![Theme logo](images/Theme-logo.png) 
