@@ -1,8 +1,16 @@
-# Dark Pastel Pink Theme for VS Code
 
-A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
+  ![Theme logo](https://github.com/user-attachments/assets/74278205-1faf-4ca4-845d-11764a504099) 
 
-## Installation via VS Code
+  # Dark Pastel Pink Theme for VS Code 
+
+  A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
+
+<hr>
+
+</div>
+
+
+## ✅📌 Installation via VS Code
 
 1. Open the Extensions sidebar panel in VS Code. *View → Extensions* (or Ctrl+Shift+X / Cmd+Shift+X)
 2. Search for "Dark Pastel Pink" (or the name you used in your `package.json`).
@@ -10,7 +18,7 @@ A soothing dark theme for VS Code, blending soft pastel pinks with vibrant paste
 4. Click *Reload* to reload the editor.
 5. *Code > Preferences > Color Theme > Dark Pastel Pink*.
 
-## Manual Installation
+## ⬇️🚀 Manual Installation
 
 1. Download the `.vsix` file from the [VS Code Marketplace](link-to-your-marketplace-page) or from the [Releases](link-to-your-github-releases) section of this repository.
 2. In VS Code, open the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
@@ -18,7 +26,7 @@ A soothing dark theme for VS Code, blending soft pastel pinks with vibrant paste
 4. Select "Install from VSIX..."
 5. Choose the downloaded `.vsix` file.
 
-## Color Reference
+## 🎨🖌️ Color Reference
 
 This section provides a general overview of the colors used in the theme.  For a more detailed look, please refer to the theme's JSON file.
 
@@ -48,7 +56,7 @@ This section provides a general overview of the colors used in the theme.  For a
 | `#ef6b73`         | Deletion highlights, errors, warnings       |
 | `#5ccfe6`         | Modified highlights                         |
 
-## Theming Reference
+## 💡🔍 Theming Reference
 
 * [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
 * [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-themes)
