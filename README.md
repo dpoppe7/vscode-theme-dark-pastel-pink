@@ -21,7 +21,7 @@ A soothing dark theme for VS Code, blending soft pastel pinks with vibrant paste
 
 ## ⬇️🚀 Manual Installation
 
-1. Download the `.vsix` file from the VS Code Marketplace > look up theme: "Dark Pastel Pink".
+1. Download the `.vsix` file from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=DamarisPoppe.dark-pastel-pink&ssr=false#overview).
 2. In VS Code, open the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
 3. Click the three dots (...) at the top right of the Extensions view.
 4. Select "Install from VSIX..."
