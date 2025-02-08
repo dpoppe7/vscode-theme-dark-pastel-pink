@@ -3,7 +3,9 @@
 # Dark Pastel Pink Theme for VS Code 
 
 A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
+
 ![Theme logo](images/SS1.png) 
+
 ![Theme logo](images/SS2.png)
 
 <hr>
@@ -63,3 +65,4 @@ This section provides a general overview of the colors used in the theme.  For a
 * [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-themes)
 * [VS Code Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extensions)
 
+![Theme logo](images/Theme-logo.png) 
