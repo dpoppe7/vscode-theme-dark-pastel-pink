@@ -1,5 +1,5 @@
-
 ![Theme logo](images/Theme-logo.png) 
+![Theme logo](images/SS1.png) 
 
 
 # Dark Pastel Pink Theme for VS Code 
