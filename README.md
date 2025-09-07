@@ -1,7 +1,7 @@
 ![Theme logo](https://github.com/user-attachments/assets/94b792e6-7483-4901-8be5-6c6cac5d4d7e)
 
-# Dark Pastel Pink Theme for VS Code :sparkles: 
-## [*Made with* 🩷 *by Damaris*](https://dpoppe7.github.io/React-Portfolio/)
+# Dark Pastel Pink Theme for VS Code ✨
+## [*Made with* 🩷 *by Damaris*](https://damarisc.netlify.app/)
 
 A soothing dark theme for VS Code, blending soft pastel pinks with vibrant pastel shades for comfortable low-light coding.
 
